@@ -19,7 +19,7 @@
     <maven.compiler.target>1.17</maven.compiler.target>
     <encoding>UTF-8</encoding>
     <scala.version>2.13.10</scala.version>
-    <junit.version>4.12</junit.version>
+    <junit.version>4.13.1</junit.version>
     <scala.compat.version>2.13</scala.compat.version>
     <spec2.version>4.13.1</spec2.version>
     <scalatest.version>3.2.14</scalatest.version>
